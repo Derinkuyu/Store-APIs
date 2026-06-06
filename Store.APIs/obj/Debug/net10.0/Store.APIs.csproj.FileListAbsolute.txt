@@ -170,3 +170,5 @@ E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.APIs\bin\Debug\net10.0\zh-
 E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.APIs\bin\Debug\net10.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.APIs\bin\Debug\net10.0\FluentValidation.AspNetCore.dll
 E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.APIs\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.APIs\obj\Debug\net10.0\Store.APIs.sourcelink.json
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.APIs\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

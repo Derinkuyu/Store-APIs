@@ -19,7 +19,6 @@ namespace Store.APIs
             var builder = WebApplication.CreateBuilder(args);
 
             /*------------------------------------------------------------------*/
-            // Add Controllers with FluentValidation error format (GeneralResult)
             builder.Services.AddControllers()
                 .ConfigureApiBehaviorOptions(options =>
                 {
@@ -44,15 +43,12 @@ namespace Store.APIs
                 });
 
             /*------------------------------------------------------------------*/
-            // DAL Services (DbContext, Identity, UnitOfWork)
             builder.Services.AddDALServices(builder.Configuration);
 
             /*------------------------------------------------------------------*/
-            // BLL Services (Managers, Validators, AutoMapper, ErrorMapper)
             builder.Services.AddBLLServices();
 
             /*------------------------------------------------------------------*/
-            // FluentValidation — auto-validate DTOs before controller actions run
             builder.Services.AddFluentValidationAutoValidation();
 
             /*------------------------------------------------------------------*/
@@ -108,7 +104,6 @@ namespace Store.APIs
             });
 
             /*------------------------------------------------------------------*/
-            // OpenAPI (built-in .NET 10) — Scalar handles JWT auth UI separately
             builder.Services.AddOpenApi(options =>
             {
                 options.AddDocumentTransformer((document, context, cancellationToken) =>
@@ -136,20 +131,15 @@ namespace Store.APIs
                     var roleManager = services.GetRequiredService<Microsoft.AspNetCore.Identity.RoleManager<Microsoft.AspNetCore.Identity.IdentityRole>>();
                     var userManager = services.GetRequiredService<Microsoft.AspNetCore.Identity.UserManager<AppUser>>();
 
-                    // 1. Apply pending EF migrations
                     await context.Database.MigrateAsync();
 
-                    // 2. Seed roles first (users depend on them)
                     await SeedDataProvider.SeedRolesAsync(roleManager);
 
-                    // 3. Seed users
                     await SeedDataProvider.SeedAdminUserAsync(userManager);
                     await SeedDataProvider.SeedRegularUsersAsync(userManager);
 
-                    // 4. Seed categories (products depend on them)
                     await SeedDataProvider.SeedCategoriesAsync(context);
 
-                    // 5. Seed products
                     await SeedDataProvider.SeedProductsAsync(context);
                 }
                 catch (Exception ex)

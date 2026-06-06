@@ -1,6 +1,5 @@
 namespace Store.BLL
 {
-    // Auth DTOs
     public class RegisterDto
     {
         /*------------------------------------------------------------------*/

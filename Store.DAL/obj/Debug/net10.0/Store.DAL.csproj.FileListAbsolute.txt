@@ -15,3 +15,4 @@ E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\refi
 E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\Store.DAL.pdb
 E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\Store.DAL.genruntimeconfig.cache
 E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\ref\Store.DAL.dll
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\Store.DAL.sourcelink.json

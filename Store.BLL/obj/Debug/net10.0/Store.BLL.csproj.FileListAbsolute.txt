@@ -15,3 +15,4 @@ E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.BLL\obj\Debug\net10.0\Stor
 E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.BLL\obj\Debug\net10.0\refint\Store.BLL.dll
 E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.BLL\obj\Debug\net10.0\Store.BLL.pdb
 E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.BLL\obj\Debug\net10.0\ref\Store.BLL.dll
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.BLL\obj\Debug\net10.0\Store.BLL.sourcelink.json

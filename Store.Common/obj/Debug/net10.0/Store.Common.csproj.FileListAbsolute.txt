@@ -9,3 +9,4 @@ E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.Common\obj\Debug\net10.0\S
 E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.Common\obj\Debug\net10.0\refint\Store.Common.dll
 E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.Common\obj\Debug\net10.0\Store.Common.pdb
 E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.Common\obj\Debug\net10.0\ref\Store.Common.dll
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.Common\obj\Debug\net10.0\Store.Common.sourcelink.json
