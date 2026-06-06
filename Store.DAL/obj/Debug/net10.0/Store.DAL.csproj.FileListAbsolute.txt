@@ -1,0 +1,17 @@
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\Store.DAL.csproj.AssemblyReference.cache
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\Store.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\Store.DAL.AssemblyInfoInputs.cache
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\Store.DAL.AssemblyInfo.cs
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\Store.DAL.csproj.CoreCompileInputs.cache
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\bin\Debug\net10.0\Store.DAL.deps.json
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\bin\Debug\net10.0\Store.DAL.runtimeconfig.json
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\bin\Debug\net10.0\Store.DAL.dll
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\bin\Debug\net10.0\Store.DAL.pdb
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\bin\Debug\net10.0\Store.Common.dll
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\bin\Debug\net10.0\Store.Common.pdb
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\Store.DAL.csproj.Up2Date
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\Store.DAL.dll
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\refint\Store.DAL.dll
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\Store.DAL.pdb
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\Store.DAL.genruntimeconfig.cache
+E:\ITI_DotNet_4months\17- ASP NET\Project\Store\Store.DAL\obj\Debug\net10.0\ref\Store.DAL.dll
