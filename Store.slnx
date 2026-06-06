@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Store.APIs/Store.APIs.csproj" />
+  <Project Path="Store.BLL/Store.BLL.csproj" />
+  <Project Path="Store.Common/Store.Common.csproj" />
+  <Project Path="Store.DAL/Store.DAL.csproj" />
+</Solution>
